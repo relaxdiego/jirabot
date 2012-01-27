@@ -1,3 +1,5 @@
+# Copy this file into variables.rb. DO NOT RENAME.
+
 @jira_host         = 'https://YOURJIRADOMAIN.atlassian.net'
 @parent_issue      = 'SOMEISSUE-KEY'
 @reporter          = 'SOMEUSERNAME'
