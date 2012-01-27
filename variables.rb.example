@@ -1,0 +1,4 @@
+@jira_host         = 'https://YOURJIRADOMAIN.atlassian.net'
+@parent_issue      = 'SOMEISSUE-KEY'
+@reporter          = 'SOMEUSERNAME'
+@issues_to_convert = ['ISSUEKEY-1', 'ISSUEKEY-2']
